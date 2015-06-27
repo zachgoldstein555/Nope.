@@ -1,1 +1,2 @@
 # WordTraveler
+Set up
